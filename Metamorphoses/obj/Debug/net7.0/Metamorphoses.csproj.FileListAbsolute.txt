@@ -1,0 +1,15 @@
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.csproj.AssemblyReference.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.AssemblyInfoInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.AssemblyInfo.cs
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.csproj.CoreCompileInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\bin\Debug\net7.0\Metamorphoses.exe
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\bin\Debug\net7.0\Metamorphoses.deps.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\bin\Debug\net7.0\Metamorphoses.runtimeconfig.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\bin\Debug\net7.0\Metamorphoses.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\bin\Debug\net7.0\Metamorphoses.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\refint\Metamorphoses.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\Metamorphoses.genruntimeconfig.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-04-2027-mathias.gillet\Metamorphoses\obj\Debug\net7.0\ref\Metamorphoses.dll
